@@ -1,0 +1,20 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "<img alt=\"APM\" src=\"https://img.shields.io/apm/l/LICENCE?style=for-the-badge\">",
+  "main": "index.js",
+  "keywords":["readme","bootstrap"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mozhiiii/Pro_Readme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mozhiiii/Pro_Readme/issues"
+  },
+  "homepage": "https://github.com/Mozhiiii/Pro_Readme#readme"
+}
